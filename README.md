@@ -1,4 +1,6 @@
-SecureAuth is a Python-based authentication system designed to securely manage user registration, login, and password updates. It enforces password strength policies, stores credentials using hashed passwords with bcrypt, and includes a built-in secure password generator. Data is stored locally in a SQLite database.
+# Secure Authentication
+
+SecureAuthentication is a Python-based authentication system designed to securely manage user registration, login, and password updates. It enforces password strength policies, stores credentials using hashed passwords with bcrypt, and includes a built-in secure password generator. Data is stored locally in a SQLite database.
 
 Features:
 
