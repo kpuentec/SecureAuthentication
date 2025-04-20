@@ -40,6 +40,11 @@ Run Program
 
          python main.py
 
+* On default, passwords should not exceed 20 characters and usernames should not exceed 10 characters, but if you wish to modify maximum password length you can always go to main.py and edit these lines of code.
+
+         if len(username) > 10:
+         if len(password) > 20:
+
 Structure:
 
 * backend/ : Contains Python functions for the program
