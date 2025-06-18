@@ -26,7 +26,7 @@ Install:
 
          git clone https://github.com/kpuentec/SecureAuthentication.git
 
-2. Navigate to the project directory: cd PasswordValidator
+2. Navigate to the project directory: cd SecureAuthentication
 
 3. Install requirements:
 
